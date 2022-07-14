@@ -1,9 +1,8 @@
-package model;
+package com.example.model;
 
 import com.example.exception.MemberException;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.RequiredArgsConstructor;
 
 @Getter
 @AllArgsConstructor
