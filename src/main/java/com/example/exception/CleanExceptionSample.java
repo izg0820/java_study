@@ -1,6 +1,6 @@
 package com.example.exception;
 
-import model.Member;
+import com.example.model.Member;
 
 import java.io.FileNotFoundException;
 import java.sql.SQLException;
